@@ -1,0 +1,523 @@
+{
+  "retrievedOn": "2026-11-18",
+  "results": [
+    {
+      "id": "ca-llc-formation",
+      "title": "California — Corporations Code section 17702.01",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "ca-operating-agreement",
+      "title": "California — Corporations Code section 17701.10",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 2
+    },
+    {
+      "id": "ca-llc-definitions",
+      "title": "California — Corporations Code section 17701.02",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 4
+    },
+    {
+      "id": "ca-llc-statement",
+      "title": "California — Corporations Code section 17702.09",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 2
+    },
+    {
+      "id": "ca-corp-formation",
+      "title": "California — Corporations Code section 200",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "ca-llc-management",
+      "title": "California — Corporations Code section 17704.07",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 4
+    },
+    {
+      "id": "ca-articles",
+      "title": "California — Corporations Code section 202",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "ca-corp-statement",
+      "title": "California — Corporations Code section 1502",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 2
+    },
+    {
+      "id": "sos-statements",
+      "title": "California — Secretary of State, statements of information",
+      "status": "already stored",
+      "from": "live page",
+      "chunks": 1
+    },
+    {
+      "id": "sos-start",
+      "title": "California — Secretary of State, starting a business",
+      "status": "already stored",
+      "from": "live page",
+      "chunks": 1
+    },
+    {
+      "id": "sos-forms",
+      "title": "California — Secretary of State, forms and fees",
+      "status": "already stored",
+      "from": "live page",
+      "chunks": 1
+    },
+    {
+      "id": "sos-tax-info",
+      "title": "California — Secretary of State, tax information",
+      "status": "already stored",
+      "from": "live page",
+      "chunks": 1
+    },
+    {
+      "id": "ca-sales-tax",
+      "title": "California — Sales tax",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "ca-use-tax",
+      "title": "California — Use tax",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "ca-franchise-tax",
+      "title": "California — Corporation franchise tax",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "ca-minimum-franchise",
+      "title": "California — Revenue and Taxation Code section 23153",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 2
+    },
+    {
+      "id": "ca-llc-tax",
+      "title": "California — Limited liability company annual tax",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "ca-llc-fee",
+      "title": "California — Revenue and Taxation Code section 17942",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "ca-gross-receipts-definition",
+      "title": "California — Revenue and Taxation Code section 6012",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 2
+    },
+    {
+      "id": "ca-sellers-permit",
+      "title": "California — Revenue and Taxation Code section 6066",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "ftb-llc",
+      "title": "California — Franchise Tax Board, limited liability companies",
+      "status": "already stored",
+      "from": "live page",
+      "chunks": 2
+    },
+    {
+      "id": "ftb-single-member",
+      "title": "California — Franchise Tax Board, single-member LLCs",
+      "status": "already stored",
+      "from": "live page",
+      "chunks": 1
+    },
+    {
+      "id": "ftb-llc-corp",
+      "title": "California — Franchise Tax Board, LLC treated as a corporation",
+      "status": "already stored",
+      "from": "live page",
+      "chunks": 1
+    },
+    {
+      "id": "ftb-corp",
+      "title": "California — Franchise Tax Board, corporations",
+      "status": "already stored",
+      "from": "live page",
+      "chunks": 1
+    },
+    {
+      "id": "ftb-s-corp",
+      "title": "California — Franchise Tax Board, S corporations",
+      "status": "already stored",
+      "from": "live page",
+      "chunks": 1
+    },
+    {
+      "id": "ftb-c-corp",
+      "title": "California — Franchise Tax Board, C corporations",
+      "status": "already stored",
+      "from": "live page",
+      "chunks": 1
+    },
+    {
+      "id": "cdtfa-rates",
+      "title": "California — CDTFA, city and county sales and use tax rates",
+      "status": "already stored",
+      "from": "live page",
+      "chunks": 1
+    },
+    {
+      "id": "cdtfa-use-tax",
+      "title": "California — CDTFA, use tax",
+      "status": "already stored",
+      "from": "live page",
+      "chunks": 2
+    },
+    {
+      "id": "cdtfa-district",
+      "title": "California — CDTFA Publication 44, district taxes",
+      "status": "already stored",
+      "from": "live page",
+      "chunks": 1
+    },
+    {
+      "id": "cdtfa-sut",
+      "title": "California — CDTFA, sales and use tax",
+      "status": "already stored",
+      "from": "live page",
+      "chunks": 1
+    },
+    {
+      "id": "sf-registration",
+      "title": "San Francisco — Business registration",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "sf-renew-registration",
+      "title": "San Francisco — Renew a business registration",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "sf-first-year-free",
+      "title": "San Francisco — First year free",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 2
+    },
+    {
+      "id": "sf-business-taxes",
+      "title": "San Francisco — Business taxes and fees",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "sf-gross-receipts",
+      "title": "San Francisco — Gross receipts tax",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "sf-commercial-rents",
+      "title": "San Francisco — Commercial rents tax",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "sf-homelessness-gr",
+      "title": "San Francisco — Homelessness gross receipts tax",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 2
+    },
+    {
+      "id": "sf-overpaid-executive",
+      "title": "San Francisco — Overpaid executive gross receipts tax",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "sf-admin-office-tax",
+      "title": "San Francisco — Administrative office tax",
+      "status": "saved",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "ca-overtime",
+      "title": "California — Labor Code section 510",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "ca-minimum-wage",
+      "title": "California — Labor Code section 1182.12",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 2
+    },
+    {
+      "id": "ftb-1060",
+      "title": "California — Franchise Tax Board Publication 1060",
+      "status": "saved",
+      "from": "live page",
+      "chunks": 5
+    },
+    {
+      "id": "ca-classification",
+      "title": "California — Labor Code section 2775",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "ca-wage-statement",
+      "title": "California — Labor Code section 226",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 2
+    },
+    {
+      "id": "ca-exempt-employee",
+      "title": "California — Labor Code section 515",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "ca-meal-period",
+      "title": "California — Labor Code section 512",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "dir-minimum-wage",
+      "title": "California — Labor Commissioner, minimum wage questions",
+      "status": "already stored",
+      "from": "live page",
+      "chunks": 2
+    },
+    {
+      "id": "ca-paid-sick",
+      "title": "California — Labor Code section 246",
+      "status": "saved",
+      "from": "official retrieval",
+      "chunks": 3
+    },
+    {
+      "id": "dir-overtime-exceptions",
+      "title": "California — Labor Commissioner, overtime exceptions",
+      "status": "already stored",
+      "from": "live page",
+      "chunks": 2
+    },
+    {
+      "id": "ftb-3556",
+      "title": "California — Franchise Tax Board Publication 3556",
+      "status": "saved",
+      "from": "live page",
+      "chunks": 6
+    },
+    {
+      "id": "dir-overtime",
+      "title": "California — Labor Commissioner, overtime",
+      "status": "saved",
+      "from": "live page",
+      "chunks": 3
+    },
+    {
+      "id": "dir-fast-food",
+      "title": "California — Labor Commissioner, fast food minimum wage",
+      "status": "saved",
+      "from": "live page",
+      "chunks": 4
+    },
+    {
+      "id": "dir-meals",
+      "title": "California — Labor Commissioner, meal periods",
+      "status": "saved",
+      "from": "live page",
+      "chunks": 3
+    },
+    {
+      "id": "ca-fbn-definition",
+      "title": "California — Business and Professions Code section 17900",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "ca-fbn-filing",
+      "title": "California — Business and Professions Code section 17910",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "ca-ccpa-notice",
+      "title": "California — Civil Code section 1798.100",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "ca-ccpa-definitions",
+      "title": "California — Civil Code section 1798.140",
+      "status": "saved",
+      "from": "official retrieval",
+      "chunks": 8
+    },
+    {
+      "id": "ca-ccpa-disclosure",
+      "title": "California — Civil Code section 1798.110",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "ca-ccpa-deletion",
+      "title": "California — Civil Code section 1798.105",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "ca-ccpa-optout",
+      "title": "California — Civil Code section 1798.120",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "dir-contractor",
+      "title": "California — Labor Commissioner, independent contractors",
+      "status": "saved",
+      "from": "live page",
+      "chunks": 6
+    },
+    {
+      "id": "oag-ccpa-regs",
+      "title": "California — Attorney General, CCPA regulations",
+      "status": "already stored",
+      "from": "live page",
+      "chunks": 2
+    },
+    {
+      "id": "ca-contract-definition",
+      "title": "California — Civil Code section 1549",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "ca-contract-elements",
+      "title": "California — Civil Code section 1550",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "ca-consideration",
+      "title": "California — Civil Code section 1596",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "ca-statute-of-frauds",
+      "title": "California — Civil Code section 1624",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 2
+    },
+    {
+      "id": "ca-contract-damages",
+      "title": "California — Civil Code section 3300",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "ca-damages",
+      "title": "California — Civil Code section 3281",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "sf-minimum-wage",
+      "title": "San Francisco — Minimum Wage Ordinance",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "sf-paid-sick",
+      "title": "San Francisco — Paid Sick Leave Ordinance",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "sf-hcso",
+      "title": "San Francisco — Health Care Security Ordinance",
+      "status": "already stored",
+      "from": "official retrieval",
+      "chunks": 1
+    },
+    {
+      "id": "sf-olse",
+      "title": "San Francisco — Office of Labor Standards Enforcement",
+      "status": "saved",
+      "from": "official retrieval",
+      "chunks": 3
+    },
+    {
+      "id": "oag-ccpa",
+      "title": "California — Attorney General, California Consumer Privacy Act",
+      "status": "saved",
+      "from": "live page",
+      "chunks": 8
+    },
+    {
+      "id": "dir-paid-sick",
+      "title": "California — Labor Commissioner, paid sick leave",
+      "status": "saved",
+      "from": "live page",
+      "chunks": 7
+    }
+  ]
+}

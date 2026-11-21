@@ -1,0 +1,191 @@
+[
+  {
+    "id": "starting-llc",
+    "title": "Starting an LLC in San Francisco",
+    "required_source_ids": [
+      "ca-llc-formation",
+      "ca-llc-definitions",
+      "ca-operating-agreement",
+      "ca-llc-management",
+      "ca-llc-statement",
+      "ca-corp-formation",
+      "ca-articles",
+      "ca-corp-statement",
+      "sos-start",
+      "sos-statements",
+      "ftb-llc",
+      "ftb-1060"
+    ]
+  },
+  {
+    "id": "multi-source",
+    "title": "A question that needs more than one source",
+    "required_source_ids": [
+      "ca-llc-formation",
+      "ca-llc-tax",
+      "sf-registration",
+      "sf-gross-receipts",
+      "ca-ccpa-notice"
+    ]
+  },
+  {
+    "id": "sf-registration",
+    "title": "Registering a business with San Francisco",
+    "required_source_ids": [
+      "sos-start",
+      "sf-registration",
+      "sf-renew-registration",
+      "sf-first-year-free"
+    ]
+  },
+  {
+    "id": "permits",
+    "title": "Permits to operate a business",
+    "required_source_ids": [
+      "sos-forms",
+      "ca-sellers-permit",
+      "sf-registration",
+      "ca-fbn-definition",
+      "ca-fbn-filing"
+    ]
+  },
+  {
+    "id": "llc-taxation",
+    "title": "California LLC annual taxes and additional fees",
+    "required_source_ids": [
+      "sos-tax-info",
+      "ca-franchise-tax",
+      "ca-minimum-franchise",
+      "ca-llc-tax",
+      "ca-llc-fee",
+      "ftb-llc",
+      "ftb-single-member",
+      "ftb-llc-corp",
+      "ftb-3556",
+      "ftb-corp",
+      "ftb-s-corp",
+      "ftb-c-corp"
+    ]
+  },
+  {
+    "id": "sales-tax",
+    "title": "California sales-tax obligations",
+    "required_source_ids": [
+      "ca-sales-tax",
+      "ca-sellers-permit",
+      "ca-gross-receipts-definition",
+      "cdtfa-rates",
+      "cdtfa-district",
+      "cdtfa-sut"
+    ]
+  },
+  {
+    "id": "ca-vs-sf",
+    "title": "California rules and additional San Francisco rules",
+    "required_source_ids": [
+      "ca-sales-tax",
+      "sf-gross-receipts",
+      "ca-minimum-wage",
+      "ca-paid-sick",
+      "dir-minimum-wage",
+      "sf-minimum-wage",
+      "sf-paid-sick"
+    ]
+  },
+  {
+    "id": "use-tax",
+    "title": "California use-tax obligations",
+    "required_source_ids": [
+      "ca-use-tax",
+      "cdtfa-use-tax",
+      "cdtfa-sut"
+    ]
+  },
+  {
+    "id": "exemptions",
+    "title": "Exemptions and exceptions",
+    "required_source_ids": [
+      "ca-gross-receipts-definition",
+      "ftb-llc-corp",
+      "cdtfa-district",
+      "sf-first-year-free",
+      "ca-exempt-employee",
+      "dir-overtime-exceptions",
+      "dir-fast-food"
+    ]
+  },
+  {
+    "id": "sf-gross-receipts",
+    "title": "San Francisco gross receipts tax",
+    "required_source_ids": [
+      "sf-business-taxes",
+      "sf-gross-receipts",
+      "sf-commercial-rents",
+      "sf-homelessness-gr",
+      "sf-overpaid-executive",
+      "sf-admin-office-tax"
+    ]
+  },
+  {
+    "id": "wage-overtime",
+    "title": "Minimum wage and overtime",
+    "required_source_ids": [
+      "ca-overtime",
+      "ca-minimum-wage",
+      "ca-exempt-employee",
+      "ca-meal-period",
+      "dir-overtime",
+      "dir-overtime-exceptions",
+      "dir-meals"
+    ]
+  },
+  {
+    "id": "first-employee",
+    "title": "Hiring a first employee in San Francisco",
+    "required_source_ids": [
+      "ca-overtime",
+      "ca-minimum-wage",
+      "ca-paid-sick",
+      "ca-wage-statement",
+      "dir-minimum-wage",
+      "dir-paid-sick",
+      "sf-minimum-wage",
+      "sf-paid-sick",
+      "sf-hcso",
+      "sf-olse"
+    ]
+  },
+  {
+    "id": "classification",
+    "title": "Employee versus contractor classification",
+    "required_source_ids": [
+      "ca-classification",
+      "dir-contractor"
+    ]
+  },
+  {
+    "id": "privacy",
+    "title": "California privacy obligations",
+    "required_source_ids": [
+      "ca-ccpa-notice",
+      "ca-ccpa-definitions",
+      "ca-ccpa-disclosure",
+      "ca-ccpa-deletion",
+      "ca-ccpa-optout",
+      "oag-ccpa",
+      "oag-ccpa-regs"
+    ]
+  },
+  {
+    "id": "contracts",
+    "title": "Commercial contract enforceability",
+    "required_source_ids": [
+      "ca-contract-definition",
+      "ca-contract-elements",
+      "ca-consideration",
+      "ca-statute-of-frauds",
+      "ca-contract-damages",
+      "ca-damages"
+    ]
+  }
+]

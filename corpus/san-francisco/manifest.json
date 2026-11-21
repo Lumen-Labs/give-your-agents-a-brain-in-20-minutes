@@ -1,0 +1,1510 @@
+{
+  "retrievedOn": "2026-11-18",
+  "sections": [
+    {
+      "id": "ca-llc-formation",
+      "jurisdiction": "california",
+      "category": "formation",
+      "topic": "LLC formation",
+      "title": "California — Corporations Code section 17702.01",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CORP&sectionNum=17702.01",
+      "authority_type": "statute",
+      "citation": "Corporations Code section 17702.01",
+      "section": "17702.01",
+      "scenario_ids": [
+        "starting-llc",
+        "multi-source"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-llc-formation.html",
+      "marker": "CALIFORNIA REVISED UNIFORM LIMITED LIABILITY COMPANY ACT [17701.01 - 17713.13] 17702.01."
+    },
+    {
+      "id": "ca-llc-definitions",
+      "jurisdiction": "california",
+      "category": "formation",
+      "topic": "LLC definitions",
+      "title": "California — Corporations Code section 17701.02",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CORP&sectionNum=17701.02",
+      "authority_type": "statute",
+      "citation": "Corporations Code section 17701.02",
+      "section": "17701.02",
+      "scenario_ids": [
+        "starting-llc"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-llc-definitions.html",
+      "marker": "CALIFORNIA REVISED UNIFORM LIMITED LIABILITY COMPANY ACT [17701.01 - 17713.13] 17701.02."
+    },
+    {
+      "id": "ca-operating-agreement",
+      "jurisdiction": "california",
+      "category": "formation",
+      "topic": "LLC operating agreement",
+      "title": "California — Corporations Code section 17701.10",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CORP&sectionNum=17701.10",
+      "authority_type": "statute",
+      "citation": "Corporations Code section 17701.10",
+      "section": "17701.10",
+      "scenario_ids": [
+        "starting-llc"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-operating-agreement.html",
+      "marker": "CALIFORNIA REVISED UNIFORM LIMITED LIABILITY COMPANY ACT [17701.01 - 17713.13] 17701.10."
+    },
+    {
+      "id": "ca-llc-management",
+      "jurisdiction": "california",
+      "category": "formation",
+      "topic": "LLC management",
+      "title": "California — Corporations Code section 17704.07",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CORP&sectionNum=17704.07",
+      "authority_type": "statute",
+      "citation": "Corporations Code section 17704.07",
+      "section": "17704.07",
+      "scenario_ids": [
+        "starting-llc"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-llc-management.html",
+      "marker": "CALIFORNIA REVISED UNIFORM LIMITED LIABILITY COMPANY ACT [17701.01 - 17713.13] 17704.07."
+    },
+    {
+      "id": "ca-llc-statement",
+      "jurisdiction": "california",
+      "category": "formation",
+      "topic": "LLC statement of information",
+      "title": "California — Corporations Code section 17702.09",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CORP&sectionNum=17702.09",
+      "authority_type": "statute",
+      "citation": "Corporations Code section 17702.09",
+      "section": "17702.09",
+      "scenario_ids": [
+        "starting-llc"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-llc-statement.html",
+      "marker": "CALIFORNIA REVISED UNIFORM LIMITED LIABILITY COMPANY ACT [17701.01 - 17713.13] ARTICLE 2."
+    },
+    {
+      "id": "ca-corp-formation",
+      "jurisdiction": "california",
+      "category": "formation",
+      "topic": "Corporation formation",
+      "title": "California — Corporations Code section 200",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CORP&sectionNum=200",
+      "authority_type": "statute",
+      "citation": "Corporations Code section 200",
+      "section": "200",
+      "scenario_ids": [
+        "starting-llc"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-corp-formation.html",
+      "marker": "(c) The corporate existence begins upon the filing of the articles and continues perpetually, unless otherwise expressly provided by law or in the articles.(Amended by Stats."
+    },
+    {
+      "id": "ca-articles",
+      "jurisdiction": "california",
+      "category": "formation",
+      "topic": "Articles of incorporation",
+      "title": "California — Corporations Code section 202",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CORP&sectionNum=202",
+      "authority_type": "statute",
+      "citation": "Corporations Code section 202",
+      "section": "202",
+      "scenario_ids": [
+        "starting-llc"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-articles.html",
+      "marker": "TITLE 1. CORPORATIONS [100 - 14707] DIVISION 1. GENERAL CORPORATION LAW [100 - 2319] CHAPT"
+    },
+    {
+      "id": "ca-corp-statement",
+      "jurisdiction": "california",
+      "category": "formation",
+      "topic": "Corporate statement of information",
+      "title": "California — Corporations Code section 1502",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CORP&sectionNum=1502",
+      "authority_type": "statute",
+      "citation": "Corporations Code section 1502",
+      "section": "1502",
+      "scenario_ids": [
+        "starting-llc"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-corp-statement.html",
+      "marker": "If a natural person is designated, the statement shall set forth that person’s complete business or residence street address."
+    },
+    {
+      "id": "sos-start",
+      "jurisdiction": "california",
+      "category": "formation",
+      "topic": "Starting a business",
+      "title": "California — Secretary of State, starting a business",
+      "source_url": "https://www.sos.ca.gov/business-programs/business-entities/starting-business",
+      "authority_type": "guidance",
+      "citation": "Secretary of State, starting a business",
+      "section": "",
+      "scenario_ids": [
+        "starting-llc",
+        "sf-registration"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/sos-start.html",
+      "marker": "When starting a new business, there are many important decisions to make and many rules and procedures that must be addressed."
+    },
+    {
+      "id": "sos-statements",
+      "jurisdiction": "california",
+      "category": "formation",
+      "topic": "Statements of information",
+      "title": "California — Secretary of State, statements of information",
+      "source_url": "https://www.sos.ca.gov/business-programs/business-entities/statements",
+      "authority_type": "guidance",
+      "citation": "Secretary of State, statements of information",
+      "section": "",
+      "scenario_ids": [
+        "starting-llc"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/sos-statements.html",
+      "marker": "Customer Service Update: August 1, 2026 User Access Update Effective August 1, 2026, web User Access is required for Statement of Information filings."
+    },
+    {
+      "id": "sos-forms",
+      "jurisdiction": "california",
+      "category": "licensing",
+      "topic": "Business entity forms",
+      "title": "California — Secretary of State, forms and fees",
+      "source_url": "https://www.sos.ca.gov/business-programs/business-entities/forms",
+      "authority_type": "guidance",
+      "citation": "Secretary of State, forms, samples and fees",
+      "section": "",
+      "scenario_ids": [
+        "permits"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/sos-forms.html",
+      "marker": "The Secretary of State offers two options for submitting business entity filings depending on your entity and filing type."
+    },
+    {
+      "id": "sos-tax-info",
+      "jurisdiction": "california",
+      "category": "formation",
+      "topic": "Entity tax contacts",
+      "title": "California — Secretary of State, tax information",
+      "source_url": "https://www.sos.ca.gov/business-programs/business-entities/tax-information",
+      "authority_type": "guidance",
+      "citation": "Secretary of State, tax information",
+      "section": "",
+      "scenario_ids": [
+        "llc-taxation"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/sos-tax-info.html",
+      "marker": "There are several agencies that administer a variety of taxes for businesses in the State of California."
+    },
+    {
+      "id": "ca-sales-tax",
+      "jurisdiction": "california",
+      "category": "taxation",
+      "topic": "Sales tax",
+      "title": "California — Sales tax",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=RTC&sectionNum=6051",
+      "authority_type": "statute",
+      "citation": "Revenue and Taxation Code section 6051",
+      "section": "6051",
+      "scenario_ids": [
+        "sales-tax",
+        "ca-vs-sf"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-sales-tax.html",
+      "marker": "6051. For the privilege of selling tangible personal property at retail a tax is hereby im"
+    },
+    {
+      "id": "ca-use-tax",
+      "jurisdiction": "california",
+      "category": "taxation",
+      "topic": "Use tax",
+      "title": "California — Use tax",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=RTC&sectionNum=6201",
+      "authority_type": "statute",
+      "citation": "Revenue and Taxation Code section 6201",
+      "section": "6201",
+      "scenario_ids": [
+        "use-tax"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-use-tax.html",
+      "marker": "6201. An excise tax is hereby imposed on the storage, use, or other consumption in this st"
+    },
+    {
+      "id": "ca-franchise-tax",
+      "jurisdiction": "california",
+      "category": "taxation",
+      "topic": "Corporation franchise tax",
+      "title": "California — Corporation franchise tax",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=RTC&sectionNum=23151",
+      "authority_type": "statute",
+      "citation": "Revenue and Taxation Code section 23151",
+      "section": "23151",
+      "scenario_ids": [
+        "llc-taxation"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-franchise-tax.html",
+      "marker": "(b) For calendar or fiscal years ending after June 30, 1973, the rate of tax shall be 9 percent instead of 7.6 percent as provided by subdivision (a)."
+    },
+    {
+      "id": "ca-minimum-franchise",
+      "jurisdiction": "california",
+      "category": "taxation",
+      "topic": "Minimum franchise tax",
+      "title": "California — Revenue and Taxation Code section 23153",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=RTC&sectionNum=23153",
+      "authority_type": "statute",
+      "citation": "Revenue and Taxation Code section 23153",
+      "section": "23153",
+      "scenario_ids": [
+        "llc-taxation"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-minimum-franchise.html",
+      "marker": "The Corporation Franchise Tax [23101 - 23364a] 23153."
+    },
+    {
+      "id": "ca-llc-tax",
+      "jurisdiction": "california",
+      "category": "taxation",
+      "topic": "LLC annual tax",
+      "title": "California — Limited liability company annual tax",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=RTC&sectionNum=17941",
+      "authority_type": "statute",
+      "citation": "Revenue and Taxation Code section 17941",
+      "section": "17941",
+      "scenario_ids": [
+        "llc-taxation",
+        "multi-source"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-llc-tax.html",
+      "marker": "(c) The tax assessed under this section shall be due and payable on or before the 15th day of the fourth month of the taxable year."
+    },
+    {
+      "id": "ca-llc-fee",
+      "jurisdiction": "california",
+      "category": "taxation",
+      "topic": "LLC fee",
+      "title": "California — Revenue and Taxation Code section 17942",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=RTC&sectionNum=17942",
+      "authority_type": "statute",
+      "citation": "Revenue and Taxation Code section 17942",
+      "section": "17942",
+      "scenario_ids": [
+        "llc-taxation"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-llc-fee.html",
+      "marker": "Tax and Fees on Limited Liability Companies [17941 - 17947] 17942."
+    },
+    {
+      "id": "ca-sellers-permit",
+      "jurisdiction": "california",
+      "category": "licensing",
+      "topic": "Seller's permit",
+      "title": "California — Revenue and Taxation Code section 6066",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=RTC&sectionNum=6066",
+      "authority_type": "statute",
+      "citation": "Revenue and Taxation Code section 6066",
+      "section": "6066",
+      "scenario_ids": [
+        "sales-tax",
+        "permits"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-sellers-permit.html",
+      "marker": "(a) Every person desiring to engage in or conduct business as a seller within this state shall file with the board an application for a permit for each place of business."
+    },
+    {
+      "id": "ca-gross-receipts-definition",
+      "jurisdiction": "california",
+      "category": "taxation",
+      "topic": "Sales tax gross receipts",
+      "title": "California — Revenue and Taxation Code section 6012",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=RTC&sectionNum=6012",
+      "authority_type": "statute",
+      "citation": "Revenue and Taxation Code section 6012",
+      "section": "6012",
+      "scenario_ids": [
+        "sales-tax",
+        "exemptions"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-gross-receipts-definition.html",
+      "marker": "General Provisions and Definitions [6001 - 6024] 6012."
+    },
+    {
+      "id": "ftb-llc",
+      "jurisdiction": "california",
+      "category": "taxation",
+      "topic": "FTB LLC overview",
+      "title": "California — Franchise Tax Board, limited liability companies",
+      "source_url": "https://www.ftb.ca.gov/file/business/types/limited-liability-company/index.html",
+      "authority_type": "guidance",
+      "citation": "Franchise Tax Board, limited liability company",
+      "section": "",
+      "scenario_ids": [
+        "llc-taxation",
+        "starting-llc"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ftb-llc.html",
+      "marker": "Overview A limited liability company (LLC) blends partnership and corporate structures."
+    },
+    {
+      "id": "ftb-single-member",
+      "jurisdiction": "california",
+      "category": "taxation",
+      "topic": "Single-member LLC",
+      "title": "California — Franchise Tax Board, single-member LLCs",
+      "source_url": "https://www.ftb.ca.gov/file/business/types/limited-liability-company/single-member-llc.html",
+      "authority_type": "guidance",
+      "citation": "Franchise Tax Board, single-member LLC",
+      "section": "",
+      "scenario_ids": [
+        "llc-taxation"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ftb-single-member.html",
+      "marker": "If you are married, you and your spouse are considered one owner and can elect to be treated as an SMLLC."
+    },
+    {
+      "id": "ftb-llc-corp",
+      "jurisdiction": "california",
+      "category": "taxation",
+      "topic": "LLC taxed as a corporation",
+      "title": "California — Franchise Tax Board, LLC treated as a corporation",
+      "source_url": "https://www.ftb.ca.gov/file/business/types/limited-liability-company/limited-liability-company-treated-as-corporation.html",
+      "authority_type": "guidance",
+      "citation": "Franchise Tax Board, LLC treated as a corporation",
+      "section": "",
+      "scenario_ids": [
+        "llc-taxation",
+        "exemptions"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ftb-llc-corp.html",
+      "marker": "Use Entity Classification Election (Federal Form 8832) ."
+    },
+    {
+      "id": "ftb-3556",
+      "jurisdiction": "california",
+      "category": "taxation",
+      "topic": "LLC filing information",
+      "title": "California — Franchise Tax Board Publication 3556",
+      "source_url": "https://www.ftb.ca.gov/forms/misc/3556.html",
+      "authority_type": "guidance",
+      "citation": "Franchise Tax Board Publication 3556",
+      "section": "",
+      "scenario_ids": [
+        "llc-taxation"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ftb-3556.html",
+      "marker": "Home FTB 3556 LLC MEO Limited Liability Company Filing Information Revised: 09/2021 Revised: MM/YYYY --> Add a lead paragraph here."
+    },
+    {
+      "id": "ftb-corp",
+      "jurisdiction": "california",
+      "category": "taxation",
+      "topic": "Corporation tax overview",
+      "title": "California — Franchise Tax Board, corporations",
+      "source_url": "https://www.ftb.ca.gov/file/business/types/corporations/index.html",
+      "authority_type": "guidance",
+      "citation": "Franchise Tax Board, corporations",
+      "section": "",
+      "scenario_ids": [
+        "llc-taxation"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ftb-corp.html",
+      "marker": "Home Back to Business Corporations S corporations C corporations Help with corporations Corporations Business type Add a lead paragraph here."
+    },
+    {
+      "id": "ftb-s-corp",
+      "jurisdiction": "california",
+      "category": "taxation",
+      "topic": "S corporations",
+      "title": "California — Franchise Tax Board, S corporations",
+      "source_url": "https://www.ftb.ca.gov/file/business/types/corporations/s-corporations.html",
+      "authority_type": "guidance",
+      "citation": "Franchise Tax Board, S corporations",
+      "section": "",
+      "scenario_ids": [
+        "llc-taxation"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ftb-s-corp.html",
+      "marker": "Income, losses, deductions, and credits flow through to the shareholders, partners or members."
+    },
+    {
+      "id": "ftb-c-corp",
+      "jurisdiction": "california",
+      "category": "taxation",
+      "topic": "C corporations",
+      "title": "California — Franchise Tax Board, C corporations",
+      "source_url": "https://www.ftb.ca.gov/file/business/types/corporations/c-corporations.html",
+      "authority_type": "guidance",
+      "citation": "Franchise Tax Board, C corporations",
+      "section": "",
+      "scenario_ids": [
+        "llc-taxation"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ftb-c-corp.html",
+      "marker": "Home Back to Business Corporations S corporations C corporations Help with corporations C corporations Add a lead paragraph here."
+    },
+    {
+      "id": "ftb-1060",
+      "jurisdiction": "california",
+      "category": "formation",
+      "topic": "Corporations starting business",
+      "title": "California — Franchise Tax Board Publication 1060",
+      "source_url": "https://www.ftb.ca.gov/forms/misc/1060.html",
+      "authority_type": "guidance",
+      "citation": "Franchise Tax Board Publication 1060",
+      "section": "",
+      "scenario_ids": [
+        "starting-llc"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ftb-1060.html",
+      "marker": "Home FTB Publication 1060 Guide for Corporations Starting Business in California Revised: 04-2025 Add a lead paragraph here."
+    },
+    {
+      "id": "cdtfa-rates",
+      "jurisdiction": "california",
+      "category": "taxation",
+      "topic": "Sales and use tax rates",
+      "title": "California — CDTFA, city and county sales and use tax rates",
+      "source_url": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm",
+      "authority_type": "guidance",
+      "citation": "CDTFA, California city and county sales and use tax rates",
+      "section": "",
+      "scenario_ids": [
+        "sales-tax"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/cdtfa-rates.html",
+      "marker": "Please Note: Some communities located within a county or a city may not be listed."
+    },
+    {
+      "id": "cdtfa-use-tax",
+      "jurisdiction": "california",
+      "category": "taxation",
+      "topic": "Use tax guidance",
+      "title": "California — CDTFA, use tax",
+      "source_url": "https://cdtfa.ca.gov/taxes-and-fees/use-tax/",
+      "authority_type": "guidance",
+      "citation": "CDTFA, California use tax",
+      "section": "",
+      "scenario_ids": [
+        "use-tax"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/cdtfa-use-tax.html",
+      "marker": "Breadcrumbs: Home California Use Tax, Good for You."
+    },
+    {
+      "id": "cdtfa-district",
+      "jurisdiction": "california",
+      "category": "taxation",
+      "topic": "District taxes",
+      "title": "California — CDTFA Publication 44, district taxes",
+      "source_url": "https://cdtfa.ca.gov/formspubs/pub44/",
+      "authority_type": "guidance",
+      "citation": "CDTFA Publication 44",
+      "section": "",
+      "scenario_ids": [
+        "sales-tax",
+        "exemptions"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/cdtfa-district.html",
+      "marker": "It explains how these taxes apply to retailers and purchasers based on where sales occur, where property is delivered, and where items are first used."
+    },
+    {
+      "id": "cdtfa-sut",
+      "jurisdiction": "california",
+      "category": "taxation",
+      "topic": "Sales and use tax programs",
+      "title": "California — CDTFA, sales and use tax",
+      "source_url": "https://cdtfa.ca.gov/taxes-and-fees/sutprograms.htm",
+      "authority_type": "guidance",
+      "citation": "CDTFA, sales and use tax in California",
+      "section": "",
+      "scenario_ids": [
+        "sales-tax",
+        "use-tax"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/cdtfa-sut.html",
+      "marker": "The use tax generally applies to the storage, use, or other consumption in California of goods purchased from retailers in transactions not subject to the sales tax."
+    },
+    {
+      "id": "sf-registration",
+      "jurisdiction": "sanfrancisco",
+      "category": "sf-taxation",
+      "topic": "Business registration",
+      "title": "San Francisco — Business registration",
+      "source_url": "https://sftreasurer.org/business/register-business",
+      "authority_type": "guidance",
+      "citation": "San Francisco Treasurer, business registration",
+      "section": "",
+      "scenario_ids": [
+        "sf-registration",
+        "permits",
+        "multi-source"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/sf-registration.html",
+      "marker": "Business Registration is generally valid for one year April 1st through March 31st."
+    },
+    {
+      "id": "sf-renew-registration",
+      "jurisdiction": "sanfrancisco",
+      "category": "sf-taxation",
+      "topic": "Registration renewal",
+      "title": "San Francisco — Renew a business registration",
+      "source_url": "https://sftreasurer.org/business/renew-business-registration",
+      "authority_type": "guidance",
+      "citation": "San Francisco Treasurer, renew business registration",
+      "section": "",
+      "scenario_ids": [
+        "sf-registration"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/sf-renew-registration.html",
+      "marker": "Beginning in 2026, Business Registration Renewal will be due on the last day of February and will be part of one unified Annual Business Registration and Tax Form."
+    },
+    {
+      "id": "sf-first-year-free",
+      "jurisdiction": "sanfrancisco",
+      "category": "sf-taxation",
+      "topic": "First year free",
+      "title": "San Francisco — First year free",
+      "source_url": "https://sftreasurer.org/business/first-year-free",
+      "authority_type": "guidance",
+      "citation": "San Francisco Treasurer, first year free",
+      "section": "",
+      "scenario_ids": [
+        "sf-registration",
+        "exemptions"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/sf-first-year-free.html",
+      "marker": "The program waives the cost of initial registration fees, initial license fees, first-year permit, and other applicable fees for qualifying businesses."
+    },
+    {
+      "id": "sf-business-taxes",
+      "jurisdiction": "sanfrancisco",
+      "category": "sf-taxation",
+      "topic": "Business taxes overview",
+      "title": "San Francisco — Business taxes and fees",
+      "source_url": "https://sftreasurer.org/business/taxes-fees-0",
+      "authority_type": "guidance",
+      "citation": "San Francisco Treasurer, taxes and fees",
+      "section": "",
+      "scenario_ids": [
+        "sf-gross-receipts"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/sf-business-taxes.html",
+      "marker": "Some businesses are also required to file and pay the Gross Receipts Tax and other annual taxes."
+    },
+    {
+      "id": "sf-gross-receipts",
+      "jurisdiction": "sanfrancisco",
+      "category": "sf-taxation",
+      "topic": "Gross receipts tax",
+      "title": "San Francisco — Gross receipts tax",
+      "source_url": "https://sftreasurer.org/business/taxes-fees/gross-receipts-tax-gr-0",
+      "authority_type": "guidance",
+      "citation": "San Francisco Treasurer, gross receipts tax",
+      "section": "",
+      "scenario_ids": [
+        "sf-gross-receipts",
+        "ca-vs-sf",
+        "multi-source"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/sf-gross-receipts.html",
+      "marker": "Gross Receipts Tax (GR) This page summarizes the application of San Francisco’s Gross Receipts Tax for tax years beginning in 2025 following the adoption of Proposition M."
+    },
+    {
+      "id": "sf-commercial-rents",
+      "jurisdiction": "sanfrancisco",
+      "category": "sf-taxation",
+      "topic": "Commercial rents tax",
+      "title": "San Francisco — Commercial rents tax",
+      "source_url": "https://sftreasurer.org/business/taxes-fees/commercial-rents-tax-cr-0",
+      "authority_type": "guidance",
+      "citation": "San Francisco Treasurer, commercial rents tax",
+      "section": "",
+      "scenario_ids": [
+        "sf-gross-receipts"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/sf-commercial-rents.html",
+      "marker": "The small business exemption amount was recently set with passage of Proposition M in November 2024."
+    },
+    {
+      "id": "sf-homelessness-gr",
+      "jurisdiction": "sanfrancisco",
+      "category": "sf-taxation",
+      "topic": "Homelessness gross receipts tax",
+      "title": "San Francisco — Homelessness gross receipts tax",
+      "source_url": "https://sftreasurer.org/business/taxes-fees/homelessness-gross-receipts-tax-hgr-0",
+      "authority_type": "guidance",
+      "citation": "San Francisco Treasurer, homelessness gross receipts tax",
+      "section": "",
+      "scenario_ids": [
+        "sf-gross-receipts"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/sf-homelessness-gr.html",
+      "marker": "View pre-Proposition M rules for 2024 and prior years here."
+    },
+    {
+      "id": "sf-overpaid-executive",
+      "jurisdiction": "sanfrancisco",
+      "category": "sf-taxation",
+      "topic": "Overpaid executive tax",
+      "title": "San Francisco — Overpaid executive gross receipts tax",
+      "source_url": "https://sftreasurer.org/business/taxes-fees/overpaid-executive-gross-receipts-tax-oe",
+      "authority_type": "guidance",
+      "citation": "San Francisco Treasurer, overpaid executive gross receipts tax",
+      "section": "",
+      "scenario_ids": [
+        "sf-gross-receipts"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/sf-overpaid-executive.html",
+      "marker": "View pre-Proposition M rules for 2024 and prior years here."
+    },
+    {
+      "id": "sf-admin-office-tax",
+      "jurisdiction": "sanfrancisco",
+      "category": "sf-taxation",
+      "topic": "Administrative office tax",
+      "title": "San Francisco — Administrative office tax",
+      "source_url": "https://sftreasurer.org/business/taxes-fees/administrative-office-tax-aot-0",
+      "authority_type": "guidance",
+      "citation": "San Francisco Treasurer, administrative office tax",
+      "section": "",
+      "scenario_ids": [
+        "sf-gross-receipts"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/sf-admin-office-tax.html",
+      "marker": "View pre-Proposition M rules for 2024 and prior years here."
+    },
+    {
+      "id": "ca-overtime",
+      "jurisdiction": "california",
+      "category": "employment",
+      "topic": "Overtime",
+      "title": "California — Labor Code section 510",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=LAB&sectionNum=510",
+      "authority_type": "statute",
+      "citation": "Labor Code section 510",
+      "section": "510",
+      "scenario_ids": [
+        "wage-overtime",
+        "first-employee"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-overtime.html",
+      "marker": "(a) Eight hours of labor constitutes a day’s work."
+    },
+    {
+      "id": "ca-minimum-wage",
+      "jurisdiction": "california",
+      "category": "employment",
+      "topic": "Minimum wage",
+      "title": "California — Labor Code section 1182.12",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=LAB&sectionNum=1182.12",
+      "authority_type": "statute",
+      "citation": "Labor Code section 1182.12",
+      "section": "1182.12",
+      "scenario_ids": [
+        "first-employee",
+        "wage-overtime",
+        "ca-vs-sf"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-minimum-wage.html",
+      "marker": "Wages, Hours and Working Conditions [1171 - 1207] 1182.12."
+    },
+    {
+      "id": "ca-paid-sick",
+      "jurisdiction": "california",
+      "category": "employment",
+      "topic": "Paid sick leave",
+      "title": "California — Labor Code section 246",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=LAB&sectionNum=246",
+      "authority_type": "statute",
+      "citation": "Labor Code section 246",
+      "section": "246",
+      "scenario_ids": [
+        "first-employee",
+        "ca-vs-sf"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-paid-sick.html",
+      "marker": "However, an employer may limit an employee’s use of accrued paid sick days to 40 hours or five days in each year of employment, calendar year, or 12-month period."
+    },
+    {
+      "id": "ca-classification",
+      "jurisdiction": "california",
+      "category": "employment",
+      "topic": "Employee classification",
+      "title": "California — Labor Code section 2775",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=LAB&sectionNum=2775",
+      "authority_type": "statute",
+      "citation": "Labor Code section 2775",
+      "section": "2775",
+      "scenario_ids": [
+        "classification"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-classification.html",
+      "marker": "Employer and Employee [2750 - 2930] 2775."
+    },
+    {
+      "id": "ca-wage-statement",
+      "jurisdiction": "california",
+      "category": "employment",
+      "topic": "Wage statements",
+      "title": "California — Labor Code section 226",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=LAB&sectionNum=226",
+      "authority_type": "statute",
+      "citation": "Labor Code section 226",
+      "section": "226",
+      "scenario_ids": [
+        "first-employee"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-wage-statement.html",
+      "marker": "The employer may take reasonable steps to ensure the identity of a current or former employee."
+    },
+    {
+      "id": "ca-exempt-employee",
+      "jurisdiction": "california",
+      "category": "employment",
+      "topic": "Overtime exemptions",
+      "title": "California — Labor Code section 515",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=LAB&sectionNum=515",
+      "authority_type": "statute",
+      "citation": "Labor Code section 515",
+      "section": "515",
+      "scenario_ids": [
+        "wage-overtime",
+        "exemptions"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-exempt-employee.html",
+      "marker": "The commission shall conduct a review of the duties that meet the test of the exemption."
+    },
+    {
+      "id": "ca-meal-period",
+      "jurisdiction": "california",
+      "category": "employment",
+      "topic": "Meal periods",
+      "title": "California — Labor Code section 512",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=LAB&sectionNum=512",
+      "authority_type": "statute",
+      "citation": "Labor Code section 512",
+      "section": "512",
+      "scenario_ids": [
+        "wage-overtime"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-meal-period.html",
+      "marker": "DIVISION 2. EMPLOYMENT REGULATION AND SUPERVISION [200 - 2699.8] PART 2. WORKING HOURS [50"
+    },
+    {
+      "id": "dir-minimum-wage",
+      "jurisdiction": "california",
+      "category": "employment",
+      "topic": "Minimum wage questions",
+      "title": "California — Labor Commissioner, minimum wage questions",
+      "source_url": "https://www.dir.ca.gov/dlse/faq_minimumwage.htm",
+      "authority_type": "guidance",
+      "citation": "Labor Commissioner, minimum wage frequently asked questions",
+      "section": "",
+      "scenario_ids": [
+        "first-employee",
+        "ca-vs-sf"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/dir-minimum-wage.html",
+      "marker": "Labor Commissioner's Office Minimum Wage Frequently Asked Questions 1."
+    },
+    {
+      "id": "dir-overtime",
+      "jurisdiction": "california",
+      "category": "employment",
+      "topic": "Overtime questions",
+      "title": "California — Labor Commissioner, overtime",
+      "source_url": "https://www.dir.ca.gov/dlse/faq_overtime.htm",
+      "authority_type": "guidance",
+      "citation": "Labor Commissioner, overtime",
+      "section": "",
+      "scenario_ids": [
+        "wage-overtime"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/dir-overtime.html",
+      "marker": "There are, however, a number of exemptions from the overtime law."
+    },
+    {
+      "id": "dir-overtime-exceptions",
+      "jurisdiction": "california",
+      "category": "employment",
+      "topic": "Overtime exceptions",
+      "title": "California — Labor Commissioner, overtime exceptions",
+      "source_url": "https://www.dir.ca.gov/dlse/FAQ_OvertimeExceptions.htm",
+      "authority_type": "guidance",
+      "citation": "Labor Commissioner, exceptions to the general overtime law",
+      "section": "",
+      "scenario_ids": [
+        "exemptions",
+        "wage-overtime"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/dir-overtime-exceptions.html",
+      "marker": "This requires payment of time and one-half for any work performed (up to eight hours) on any day not included in the schedule established by the agreement."
+    },
+    {
+      "id": "dir-contractor",
+      "jurisdiction": "california",
+      "category": "employment",
+      "topic": "Independent contractor questions",
+      "title": "California — Labor Commissioner, independent contractors",
+      "source_url": "https://www.dir.ca.gov/dlse/faq_independentcontractor.htm",
+      "authority_type": "guidance",
+      "citation": "Labor Commissioner, independent contractors",
+      "section": "",
+      "scenario_ids": [
+        "classification"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/dir-contractor.html",
+      "marker": "Labor Commissioner's Office Independent contractor versus employee Free seminar for the Trucking/Motor Carrier Industry ."
+    },
+    {
+      "id": "dir-paid-sick",
+      "jurisdiction": "california",
+      "category": "employment",
+      "topic": "Paid sick leave questions",
+      "title": "California — Labor Commissioner, paid sick leave",
+      "source_url": "https://www.dir.ca.gov/dlse/paid_sick_leave.htm",
+      "authority_type": "guidance",
+      "citation": "Labor Commissioner, California paid sick leave",
+      "section": "",
+      "scenario_ids": [
+        "first-employee"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/dir-paid-sick.html",
+      "marker": "All employers should post the new poster."
+    },
+    {
+      "id": "dir-fast-food",
+      "jurisdiction": "california",
+      "category": "employment",
+      "topic": "Fast food minimum wage",
+      "title": "California — Labor Commissioner, fast food minimum wage",
+      "source_url": "https://www.dir.ca.gov/dlse/Fast-Food-Minimum-Wage-FAQ.htm",
+      "authority_type": "guidance",
+      "citation": "Labor Commissioner, fast food minimum wage",
+      "section": "",
+      "scenario_ids": [
+        "exemptions"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/dir-fast-food.html",
+      "marker": "Labor Commissioner's Office Fast Food Minimum Wage Frequently Asked Questions The FAQs provide general information and are not exhaustive."
+    },
+    {
+      "id": "dir-meals",
+      "jurisdiction": "california",
+      "category": "employment",
+      "topic": "Meal period questions",
+      "title": "California — Labor Commissioner, meal periods",
+      "source_url": "https://www.dir.ca.gov/dlse/faq_mealperiods.htm",
+      "authority_type": "guidance",
+      "citation": "Labor Commissioner, meal periods",
+      "section": "",
+      "scenario_ids": [
+        "wage-overtime"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/dir-meals.html",
+      "marker": "And a subsequent meal period must be called not later than six hours after the termination of the preceding meal period."
+    },
+    {
+      "id": "ca-fbn-definition",
+      "jurisdiction": "california",
+      "category": "licensing",
+      "topic": "Fictitious business names",
+      "title": "California — Business and Professions Code section 17900",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=17900",
+      "authority_type": "statute",
+      "citation": "Business and Professions Code section 17900",
+      "section": "17900",
+      "scenario_ids": [
+        "permits"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-fbn-definition.html",
+      "marker": "Fictitious Business Names [17900 - 17930] 17900."
+    },
+    {
+      "id": "ca-fbn-filing",
+      "jurisdiction": "california",
+      "category": "licensing",
+      "topic": "Fictitious name filing",
+      "title": "California — Business and Professions Code section 17910",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=17910",
+      "authority_type": "statute",
+      "citation": "Business and Professions Code section 17910",
+      "section": "17910",
+      "scenario_ids": [
+        "permits"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-fbn-filing.html",
+      "marker": "Fictitious Business Names [17900 - 17930] 17910."
+    },
+    {
+      "id": "ca-ccpa-notice",
+      "jurisdiction": "california",
+      "category": "privacy",
+      "topic": "CCPA general duties",
+      "title": "California — Civil Code section 1798.100",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1798.100",
+      "authority_type": "statute",
+      "citation": "Civil Code section 1798.100",
+      "section": "1798.100",
+      "scenario_ids": [
+        "privacy",
+        "multi-source"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-ccpa-notice.html",
+      "marker": "California Consumer Privacy Act of 2018 [1798.100 - 1798.199.100] 1798.100."
+    },
+    {
+      "id": "ca-ccpa-definitions",
+      "jurisdiction": "california",
+      "category": "privacy",
+      "topic": "CCPA definitions",
+      "title": "California — Civil Code section 1798.140",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1798.140",
+      "authority_type": "statute",
+      "citation": "Civil Code section 1798.140",
+      "section": "1798.140",
+      "scenario_ids": [
+        "privacy"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-ccpa-definitions.html",
+      "marker": "California Consumer Privacy Act of 2018 [1798.100 - 1798.199.100] 1798.140."
+    },
+    {
+      "id": "ca-ccpa-disclosure",
+      "jurisdiction": "california",
+      "category": "privacy",
+      "topic": "CCPA disclosure",
+      "title": "California — Civil Code section 1798.110",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1798.110",
+      "authority_type": "statute",
+      "citation": "Civil Code section 1798.110",
+      "section": "1798.110",
+      "scenario_ids": [
+        "privacy"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-ccpa-disclosure.html",
+      "marker": "California Consumer Privacy Act of 2018 [1798.100 - 1798.199.100] 1798.110."
+    },
+    {
+      "id": "ca-ccpa-deletion",
+      "jurisdiction": "california",
+      "category": "privacy",
+      "topic": "CCPA deletion",
+      "title": "California — Civil Code section 1798.105",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1798.105",
+      "authority_type": "statute",
+      "citation": "Civil Code section 1798.105",
+      "section": "1798.105",
+      "scenario_ids": [
+        "privacy"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-ccpa-deletion.html",
+      "marker": "California Consumer Privacy Act of 2018 [1798.100 - 1798.199.100] 1798.105."
+    },
+    {
+      "id": "ca-ccpa-optout",
+      "jurisdiction": "california",
+      "category": "privacy",
+      "topic": "CCPA opt-out",
+      "title": "California — Civil Code section 1798.120",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1798.120",
+      "authority_type": "statute",
+      "citation": "Civil Code section 1798.120",
+      "section": "1798.120",
+      "scenario_ids": [
+        "privacy"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-ccpa-optout.html",
+      "marker": "California Consumer Privacy Act of 2018 [1798.100 - 1798.199.100] 1798.120."
+    },
+    {
+      "id": "oag-ccpa",
+      "jurisdiction": "california",
+      "category": "privacy",
+      "topic": "CCPA overview",
+      "title": "California — Attorney General, California Consumer Privacy Act",
+      "source_url": "https://oag.ca.gov/privacy/ccpa",
+      "authority_type": "guidance",
+      "citation": "Attorney General, California Consumer Privacy Act",
+      "section": "",
+      "scenario_ids": [
+        "privacy"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/oag-ccpa.html",
+      "marker": "In November of 2020, California voters approved Proposition 24, the CPRA , which amended the CCPA and added new additional privacy protections that began on January 1, 2023."
+    },
+    {
+      "id": "oag-ccpa-regs",
+      "jurisdiction": "california",
+      "category": "privacy",
+      "topic": "CCPA regulations",
+      "title": "California — Attorney General, CCPA regulations",
+      "source_url": "https://oag.ca.gov/privacy/ccpa/regs",
+      "authority_type": "regulation",
+      "citation": "Attorney General, CCPA regulations",
+      "section": "",
+      "scenario_ids": [
+        "privacy"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/oag-ccpa-regs.html",
+      "marker": "In doing so, the regulations make it easier for consumers to exercise their CCPA rights."
+    },
+    {
+      "id": "ca-contract-definition",
+      "jurisdiction": "california",
+      "category": "contracts",
+      "topic": "Contract definition",
+      "title": "California — Civil Code section 1549",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1549",
+      "authority_type": "statute",
+      "citation": "Civil Code section 1549",
+      "section": "1549",
+      "scenario_ids": [
+        "contracts"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-contract-definition.html",
+      "marker": "A contract is an agreement to do or not to do a certain thing.(Enacted 1872.)"
+    },
+    {
+      "id": "ca-contract-elements",
+      "jurisdiction": "california",
+      "category": "contracts",
+      "topic": "Contract elements",
+      "title": "California — Civil Code section 1550",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1550",
+      "authority_type": "statute",
+      "citation": "Civil Code section 1550",
+      "section": "1550",
+      "scenario_ids": [
+        "contracts"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-contract-elements.html",
+      "marker": "It is essential to the existence of a contract that there should be:1."
+    },
+    {
+      "id": "ca-consideration",
+      "jurisdiction": "california",
+      "category": "contracts",
+      "topic": "Lawful object",
+      "title": "California — Civil Code section 1596",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1596",
+      "authority_type": "statute",
+      "citation": "Civil Code section 1596",
+      "section": "1596",
+      "scenario_ids": [
+        "contracts"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-consideration.html",
+      "marker": "The object of a contract must be lawful when the contract is made, and possible and ascertainable by the time the contract is to be performed.(Enacted 1872.)"
+    },
+    {
+      "id": "ca-statute-of-frauds",
+      "jurisdiction": "california",
+      "category": "contracts",
+      "topic": "Statute of frauds",
+      "title": "California — Civil Code section 1624",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1624",
+      "authority_type": "statute",
+      "citation": "Civil Code section 1624",
+      "section": "1624",
+      "scenario_ids": [
+        "contracts"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-statute-of-frauds.html",
+      "marker": "MANNER OF CREATING CONTRACTS [1619 - 1633] 1624."
+    },
+    {
+      "id": "ca-contract-damages",
+      "jurisdiction": "california",
+      "category": "contracts",
+      "topic": "Contract damages",
+      "title": "California — Civil Code section 3300",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=3300",
+      "authority_type": "statute",
+      "citation": "Civil Code section 3300",
+      "section": "3300",
+      "scenario_ids": [
+        "contracts"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-contract-damages.html",
+      "marker": "Measure of Damages [[3300.] - 3361] ARTICLE 1."
+    },
+    {
+      "id": "ca-damages",
+      "jurisdiction": "california",
+      "category": "contracts",
+      "topic": "Damages",
+      "title": "California — Civil Code section 3281",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=3281",
+      "authority_type": "statute",
+      "citation": "Civil Code section 3281",
+      "section": "3281",
+      "scenario_ids": [
+        "contracts"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/ca-damages.html",
+      "marker": "Damages in General [3281 - 3296] ARTICLE 1."
+    },
+    {
+      "id": "sf-minimum-wage",
+      "jurisdiction": "sanfrancisco",
+      "category": "local",
+      "topic": "San Francisco minimum wage",
+      "title": "San Francisco — Minimum Wage Ordinance",
+      "source_url": "https://www.sf.gov/information/minimum-wage-ordinance",
+      "authority_type": "guidance",
+      "citation": "San Francisco Minimum Wage Ordinance",
+      "section": "",
+      "scenario_ids": [
+        "first-employee",
+        "ca-vs-sf"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/sf-minimum-wage.html",
+      "marker": "The San Francsico minimum wage rate will be adjusted based on the annual increase in the Consumer Price Index."
+    },
+    {
+      "id": "sf-paid-sick",
+      "jurisdiction": "sanfrancisco",
+      "category": "local",
+      "topic": "San Francisco paid sick leave",
+      "title": "San Francisco — Paid Sick Leave Ordinance",
+      "source_url": "https://www.sf.gov/information/paid-sick-leave-ordinance",
+      "authority_type": "guidance",
+      "citation": "San Francisco Paid Sick Leave Ordinance",
+      "section": "",
+      "scenario_ids": [
+        "first-employee",
+        "ca-vs-sf"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/sf-paid-sick.html",
+      "marker": "Employees earn 1 hour of paid sick leave for every 30 hours worked.Employers with 10 or more employees may cap an employee's sick time balance at 72 hours."
+    },
+    {
+      "id": "sf-hcso",
+      "jurisdiction": "sanfrancisco",
+      "category": "local",
+      "topic": "Health care spending",
+      "title": "San Francisco — Health Care Security Ordinance",
+      "source_url": "https://www.sf.gov/information/health-care-security-ordinance",
+      "authority_type": "guidance",
+      "citation": "San Francisco Health Care Security Ordinance",
+      "section": "",
+      "scenario_ids": [
+        "first-employee"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/sf-hcso.html",
+      "marker": "Certain provisions of this Guidance, therefore, may not be consistent with the Health Care Security Ordinance (\"HCSO\"), San Francisco L.E.C."
+    },
+    {
+      "id": "sf-olse",
+      "jurisdiction": "sanfrancisco",
+      "category": "local",
+      "topic": "Labor standards office",
+      "title": "San Francisco — Office of Labor Standards Enforcement",
+      "source_url": "https://www.sf.gov/departments/office-labor-standards-enforcement",
+      "authority_type": "guidance",
+      "citation": "San Francisco Office of Labor Standards Enforcement",
+      "section": "",
+      "scenario_ids": [
+        "first-employee"
+      ],
+      "related_ids": [],
+      "retrieved_at": "2026-11-18",
+      "effective_date": null,
+      "status": "saved",
+      "page": "pages/sf-olse.html",
+      "marker": "Learn your rights and what to do if you believe your employer has violated them.Employer responsibilitiesBusiness owners must ensure certain protections for employees."
+    }
+  ]
+}

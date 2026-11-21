@@ -1,0 +1,490 @@
+[
+  {
+    "question": "Does a California retailer owe sales tax on a retail sale of tangible personal property?",
+    "scenario_id": "sales-tax",
+    "kind": "single",
+    "expected_source_ids": [
+      "ca-sales-tax"
+    ],
+    "required_concepts": [
+      "Revenue and Taxation Code section 6051"
+    ],
+    "must_not_claim": [
+      "LOC-14",
+      "ENG-1"
+    ],
+    "expected_status": "supported"
+  },
+  {
+    "question": "Who needs a seller's permit under Revenue and Taxation Code section 6066?",
+    "scenario_id": "permits",
+    "kind": "single",
+    "expected_source_ids": [
+      "ca-sellers-permit"
+    ],
+    "required_concepts": [
+      "Revenue and Taxation Code section 6066"
+    ],
+    "must_not_claim": [
+      "LOC-14",
+      "ENG-1"
+    ],
+    "expected_status": "supported"
+  },
+  {
+    "question": "What are the essential elements of a contract under Civil Code section 1550?",
+    "scenario_id": "contracts",
+    "kind": "single",
+    "expected_source_ids": [
+      "ca-contract-elements"
+    ],
+    "required_concepts": [
+      "Civil Code section 1550"
+    ],
+    "must_not_claim": [
+      "LOC-14",
+      "ENG-1"
+    ],
+    "expected_status": "supported"
+  },
+  {
+    "question": "What does Civil Code section 1624 require to be in writing?",
+    "scenario_id": "contracts",
+    "kind": "single",
+    "expected_source_ids": [
+      "ca-statute-of-frauds"
+    ],
+    "required_concepts": [
+      "Civil Code section 1624"
+    ],
+    "must_not_claim": [
+      "LOC-14",
+      "ENG-1"
+    ],
+    "expected_status": "supported"
+  },
+  {
+    "question": "What does Civil Code section 3300 award for breach of contract?",
+    "scenario_id": "contracts",
+    "kind": "single",
+    "expected_source_ids": [
+      "ca-contract-damages"
+    ],
+    "required_concepts": [
+      "Civil Code section 3300"
+    ],
+    "must_not_claim": [
+      "LOC-14",
+      "ENG-1"
+    ],
+    "expected_status": "supported"
+  },
+  {
+    "question": "What amounts are excluded from gross receipts under Revenue and Taxation Code section 6012?",
+    "scenario_id": "sales-tax",
+    "kind": "single",
+    "expected_source_ids": [
+      "ca-gross-receipts-definition"
+    ],
+    "required_concepts": [
+      "Revenue and Taxation Code section 6012"
+    ],
+    "must_not_claim": [
+      "LOC-14",
+      "ENG-1"
+    ],
+    "expected_status": "supported"
+  },
+  {
+    "question": "What is the administrative office tax in San Francisco?",
+    "scenario_id": "sf-gross-receipts",
+    "kind": "single",
+    "expected_source_ids": [
+      "sf-admin-office-tax"
+    ],
+    "required_concepts": [
+      "San Francisco Treasurer, administrative office tax"
+    ],
+    "must_not_claim": [
+      "LOC-14",
+      "ENG-1"
+    ],
+    "expected_status": "supported"
+  },
+  {
+    "question": "What health care expenditures does the San Francisco Health Care Security Ordinance require?",
+    "scenario_id": "first-employee",
+    "kind": "single",
+    "expected_source_ids": [
+      "sf-hcso"
+    ],
+    "required_concepts": [
+      "San Francisco Health Care Security Ordinance"
+    ],
+    "must_not_claim": [
+      "LOC-14",
+      "ENG-1"
+    ],
+    "expected_status": "supported"
+  },
+  {
+    "question": "What commercial rents tax does San Francisco impose?",
+    "scenario_id": "sf-gross-receipts",
+    "kind": "single",
+    "expected_source_ids": [
+      "sf-commercial-rents"
+    ],
+    "required_concepts": [
+      "San Francisco Treasurer, commercial rents tax"
+    ],
+    "must_not_claim": [
+      "LOC-14",
+      "ENG-1"
+    ],
+    "expected_status": "supported"
+  },
+  {
+    "question": "What must a wage statement include under Labor Code section 226?",
+    "scenario_id": "first-employee",
+    "kind": "single",
+    "expected_source_ids": [
+      "ca-wage-statement"
+    ],
+    "required_concepts": [
+      "Labor Code section 226"
+    ],
+    "must_not_claim": [
+      "LOC-14",
+      "ENG-1"
+    ],
+    "expected_status": "supported"
+  },
+  {
+    "question": "When does California impose a use tax on storage or consumption?",
+    "scenario_id": "use-tax",
+    "kind": "multi",
+    "expected_source_ids": [
+      "ca-use-tax",
+      "cdtfa-use-tax"
+    ],
+    "required_concepts": [
+      "Revenue and Taxation Code section 6201",
+      "CDTFA, California use tax"
+    ],
+    "must_not_claim": [
+      "LOC-14",
+      "ENG-1"
+    ],
+    "expected_status": "supported"
+  },
+  {
+    "question": "What annual tax does a limited liability company doing business in California pay?",
+    "scenario_id": "llc-taxation",
+    "kind": "multi",
+    "expected_source_ids": [
+      "ca-llc-tax",
+      "ftb-llc"
+    ],
+    "required_concepts": [
+      "Revenue and Taxation Code section 17941",
+      "Franchise Tax Board, limited liability company"
+    ],
+    "must_not_claim": [
+      "LOC-14",
+      "ENG-1"
+    ],
+    "expected_status": "supported"
+  },
+  {
+    "question": "What does Corporations Code section 17702.01 require to form a limited liability company?",
+    "scenario_id": "starting-llc",
+    "kind": "multi",
+    "expected_source_ids": [
+      "ca-llc-formation",
+      "ca-llc-statement"
+    ],
+    "required_concepts": [
+      "Corporations Code section 17702.01",
+      "Corporations Code section 17702.09"
+    ],
+    "must_not_claim": [
+      "LOC-14",
+      "ENG-1"
+    ],
+    "expected_status": "supported"
+  },
+  {
+    "question": "When is a worker an employee rather than an independent contractor under Labor Code section 2775?",
+    "scenario_id": "classification",
+    "kind": "multi",
+    "expected_source_ids": [
+      "ca-classification",
+      "dir-contractor"
+    ],
+    "required_concepts": [
+      "Labor Code section 2775",
+      "Labor Commissioner, independent contractors"
+    ],
+    "must_not_claim": [
+      "LOC-14",
+      "ENG-1"
+    ],
+    "expected_status": "supported"
+  },
+  {
+    "question": "What is a fictitious business name and who must file one?",
+    "scenario_id": "permits",
+    "kind": "multi",
+    "expected_source_ids": [
+      "ca-fbn-definition",
+      "ca-fbn-filing"
+    ],
+    "required_concepts": [
+      "Business and Professions Code section 17900",
+      "Business and Professions Code section 17910"
+    ],
+    "must_not_claim": [
+      "LOC-14",
+      "ENG-1"
+    ],
+    "expected_status": "supported"
+  },
+  {
+    "question": "What meal period must an employer provide?",
+    "scenario_id": "wage-overtime",
+    "kind": "multi",
+    "expected_source_ids": [
+      "ca-meal-period",
+      "dir-meals"
+    ],
+    "required_concepts": [
+      "Labor Code section 512",
+      "Labor Commissioner, meal periods"
+    ],
+    "must_not_claim": [
+      "LOC-14",
+      "ENG-1"
+    ],
+    "expected_status": "supported"
+  },
+  {
+    "question": "Civil Code section 1798.120 opt out of the sale of personal information",
+    "scenario_id": "privacy",
+    "kind": "multi",
+    "expected_source_ids": [
+      "ca-ccpa-optout",
+      "ca-ccpa-definitions"
+    ],
+    "required_concepts": [
+      "Civil Code section 1798.120",
+      "Civil Code section 1798.140"
+    ],
+    "must_not_claim": [
+      "LOC-14",
+      "ENG-1"
+    ],
+    "expected_status": "supported"
+  },
+  {
+    "question": "What must a business tell a consumer under Civil Code section 1798.100?",
+    "scenario_id": "privacy",
+    "kind": "multi",
+    "expected_source_ids": [
+      "ca-ccpa-notice",
+      "ca-ccpa-definitions"
+    ],
+    "required_concepts": [
+      "Civil Code section 1798.100",
+      "Civil Code section 1798.140"
+    ],
+    "must_not_claim": [
+      "LOC-14",
+      "ENG-1"
+    ],
+    "expected_status": "supported"
+  },
+  {
+    "question": "What districts add to the California sales and use tax rate?",
+    "scenario_id": "sales-tax",
+    "kind": "multi",
+    "expected_source_ids": [
+      "cdtfa-district",
+      "cdtfa-rates"
+    ],
+    "required_concepts": [
+      "CDTFA Publication 44",
+      "CDTFA, California city and county sales and use tax rates"
+    ],
+    "must_not_claim": [
+      "LOC-14",
+      "ENG-1"
+    ],
+    "expected_status": "supported"
+  },
+  {
+    "question": "Who must register a business with San Francisco?",
+    "scenario_id": "sf-registration",
+    "kind": "multi",
+    "expected_source_ids": [
+      "sf-registration",
+      "sf-renew-registration"
+    ],
+    "required_concepts": [
+      "San Francisco Treasurer, business registration",
+      "San Francisco Treasurer, renew business registration"
+    ],
+    "must_not_claim": [
+      "LOC-14",
+      "ENG-1"
+    ],
+    "expected_status": "supported"
+  },
+  {
+    "question": "What is the San Francisco minimum wage for employees working in the city?",
+    "scenario_id": "ca-vs-sf",
+    "kind": "exception",
+    "expected_source_ids": [
+      "sf-minimum-wage",
+      "dir-minimum-wage"
+    ],
+    "required_concepts": [
+      "San Francisco Minimum Wage Ordinance",
+      "Labor Commissioner, minimum wage frequently asked questions"
+    ],
+    "must_not_claim": [
+      "LOC-14",
+      "ENG-1"
+    ],
+    "expected_status": "supported"
+  },
+  {
+    "question": "What is the San Francisco paid sick leave ordinance?",
+    "scenario_id": "ca-vs-sf",
+    "kind": "exception",
+    "expected_source_ids": [
+      "sf-paid-sick",
+      "dir-paid-sick"
+    ],
+    "required_concepts": [
+      "San Francisco Paid Sick Leave Ordinance",
+      "Labor Commissioner, California paid sick leave"
+    ],
+    "must_not_claim": [
+      "LOC-14",
+      "ENG-1"
+    ],
+    "expected_status": "supported"
+  },
+  {
+    "question": "First year free San Francisco business registration",
+    "scenario_id": "exemptions",
+    "kind": "exception",
+    "expected_source_ids": [
+      "sf-first-year-free"
+    ],
+    "required_concepts": [
+      "San Francisco Treasurer, first year free"
+    ],
+    "must_not_claim": [
+      "LOC-14",
+      "ENG-1"
+    ],
+    "expected_status": "supported"
+  },
+  {
+    "question": "What overtime exemptions can the Industrial Welfare Commission establish?",
+    "scenario_id": "exemptions",
+    "kind": "exception",
+    "expected_source_ids": [
+      "ca-exempt-employee",
+      "dir-overtime"
+    ],
+    "required_concepts": [
+      "Labor Code section 515",
+      "Labor Commissioner, overtime"
+    ],
+    "must_not_claim": [
+      "LOC-14",
+      "ENG-1"
+    ],
+    "expected_status": "supported"
+  },
+  {
+    "question": "What San Francisco gross receipts tax applies to a business in the city?",
+    "scenario_id": "sf-gross-receipts",
+    "kind": "exception",
+    "expected_source_ids": [
+      "sf-gross-receipts",
+      "sf-homelessness-gr"
+    ],
+    "required_concepts": [
+      "San Francisco Treasurer, gross receipts tax",
+      "San Francisco Treasurer, homelessness gross receipts tax"
+    ],
+    "must_not_claim": [
+      "LOC-14",
+      "ENG-1"
+    ],
+    "expected_status": "supported"
+  },
+  {
+    "question": "What is the San Francisco mansion transfer tax rate?",
+    "scenario_id": "multi-source",
+    "kind": "unsupported",
+    "expected_source_ids": [],
+    "required_concepts": [],
+    "must_not_claim": [
+      "LOC-14",
+      "ENG-1"
+    ],
+    "expected_status": "unsupported"
+  },
+  {
+    "question": "How do I renew a dog license in Oregon?",
+    "scenario_id": "multi-source",
+    "kind": "unsupported",
+    "expected_source_ids": [],
+    "required_concepts": [],
+    "must_not_claim": [
+      "LOC-14",
+      "ENG-1"
+    ],
+    "expected_status": "unsupported"
+  },
+  {
+    "question": "What is the federal income tax bracket for 2026?",
+    "scenario_id": "multi-source",
+    "kind": "unsupported",
+    "expected_source_ids": [],
+    "required_concepts": [],
+    "must_not_claim": [
+      "LOC-14",
+      "ENG-1"
+    ],
+    "expected_status": "unsupported"
+  },
+  {
+    "question": "What New York City unincorporated business tax applies?",
+    "scenario_id": "multi-source",
+    "kind": "unsupported",
+    "expected_source_ids": [],
+    "required_concepts": [],
+    "must_not_claim": [
+      "LOC-14",
+      "ENG-1"
+    ],
+    "expected_status": "unsupported"
+  },
+  {
+    "question": "What is the patent term for a software invention?",
+    "scenario_id": "multi-source",
+    "kind": "unsupported",
+    "expected_source_ids": [],
+    "required_concepts": [],
+    "must_not_claim": [
+      "LOC-14",
+      "ENG-1"
+    ],
+    "expected_status": "unsupported"
+  }
+]

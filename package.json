@@ -1,0 +1,9 @@
+{
+  "name": "accountant-agent-desk",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node bin/dev.mjs",
+    "test": "node --test test/*.test.mjs"
+  }
+}

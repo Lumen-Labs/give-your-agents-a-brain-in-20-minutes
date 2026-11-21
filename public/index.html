@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#ffffff" />
+    <title>Reply desk</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lora:wght@500;600&family=Raleway:wght@400;500;600;700&display=swap" />
+    <link rel="stylesheet" href="/app.css?v=uploads2" />
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to the content</a>
+    <header class="bar">
+      <div class="bar-inner">
+        <h1 class="brand">Reply desk</h1>
+        <nav class="tabs" aria-label="Sections">
+          <a href="#replies" id="tab-replies" data-view="replies">Replies <span class="count" id="count-replies" hidden></span></a>
+          <a href="#documents" id="tab-documents" data-view="documents">Documents <span class="count quiet" id="count-documents" hidden></span></a>
+        </nav>
+        <p id="status" class="pill" role="status" data-tone="wait"><span class="dot" aria-hidden="true"></span><span id="status-text">Checking your documents…</span></p>
+      </div>
+    </header>
+
+    <main id="main" tabindex="-1">
+      <section id="view-replies" class="replies" data-pane="list" aria-label="Replies">
+        <aside class="rail" aria-labelledby="rail-title">
+          <div class="rail-head">
+            <h2 id="rail-title">Replies</h2>
+            <button id="new-question" class="primary compact" type="button"><span data-icon="plus"></span>New question</button>
+          </div>
+          <div id="filters" class="segmented" role="group" aria-label="Filter replies"></div>
+          <ul id="queue"></ul>
+        </aside>
+
+        <div class="stage">
+          <section id="composer" class="panel" aria-labelledby="ask-title">
+            <button class="back" type="button" data-back><span data-icon="back"></span>All replies</button>
+            <h2 id="ask-title">Ask a question</h2>
+            <p class="lead">Write the client’s question. A person approves the reply on this page. Nothing is sent from here.</p>
+            <form id="intake" novalidate>
+              <label for="ask">Client question</label>
+              <textarea id="ask" name="ask" rows="4" required aria-describedby="ask-error ask-hint"></textarea>
+              <p id="ask-error" class="field-error" role="alert" hidden></p>
+              <div class="examples" id="examples">
+                <span class="examples-label">Try an example</span>
+              </div>
+
+              <label for="topic">What is this about?</label>
+              <select id="topic" name="topic">
+                <option value="policy">A firm policy</option>
+                <option value="document">A document</option>
+                <option value="legal_or_regulatory">A California or San Francisco rule</option>
+              </select>
+
+              <fieldset id="risk" class="choices">
+                <legend>What kind of reply?</legend>
+                <label class="choice">
+                  <input type="radio" name="risk" value="conclusion" checked />
+                  <span><strong>An answer</strong><small>Needs a saved document that supports it.</small></span>
+                </label>
+                <label class="choice">
+                  <input type="radio" name="risk" value="status_or_document_chase" />
+                  <span><strong>A note about what is missing</strong><small>Does not state a rule.</small></span>
+                </label>
+              </fieldset>
+
+              <div class="form-actions">
+                <button class="primary" type="submit">Write a draft</button>
+                <p id="ask-hint" class="hint"><kbd id="shortcut">Ctrl Enter</kbd> to write the draft</p>
+              </div>
+            </form>
+          </section>
+
+          <section id="workspace" class="panel workspace" hidden></section>
+        </div>
+      </section>
+
+      <section id="view-documents" class="documents" data-uploads="off" aria-labelledby="library-title" hidden>
+        <div class="doc-main">
+          <div class="doc-head">
+            <h2 id="library-title">Documents</h2>
+            <p id="library-summary" class="lead">Loading what is saved…</p>
+          </div>
+          <div class="toolbar">
+            <div class="search">
+              <span data-icon="search"></span>
+              <input id="doc-search" type="search" placeholder="Search by name" aria-label="Search documents" autocomplete="off" />
+            </div>
+            <div id="doc-filters" class="segmented" role="group" aria-label="Filter documents"></div>
+          </div>
+          <ul id="library" class="library"></ul>
+        </div>
+
+        <aside class="doc-add panel" aria-labelledby="add-title">
+          <h2 id="add-title">Add a document</h2>
+          <p class="lead">Save a policy or a California or San Francisco rule. The original file stays on this computer. The words are read here, then used for replies.</p>
+          <form id="library-form">
+            <label for="source-file" id="drop-label" class="drop">
+              <span data-icon="upload"></span>
+              <span id="file-name" class="drop-text">Choose a file or drop it here</span>
+              <small>Text, Word, or a PDF that already contains words. Up to 8 MB.</small>
+            </label>
+            <input id="source-file" class="file-input" name="file" type="file" accept=".txt,.md,.csv,.rtf,.docx,.pdf,text/plain,text/markdown,text/csv,application/pdf,application/vnd.openxmlformats-officedocument.wordprocessingml.document" />
+
+            <label for="source-title">Name</label>
+            <input id="source-title" name="title" required autocomplete="off" />
+
+            <label for="source-role">This document is</label>
+            <select id="source-role" name="role">
+              <option value="firm">Our firm’s policy</option>
+              <option value="jurisdiction">A California or San Francisco rule</option>
+            </select>
+
+            <details>
+              <summary>Paste the words instead</summary>
+              <label for="source-body">Words</label>
+              <textarea id="source-body" name="body" rows="5"></textarea>
+            </details>
+
+            <div class="form-actions">
+              <button class="secondary" type="submit">Save this document</button>
+            </div>
+            <p id="library-message" class="help" role="status"></p>
+          </form>
+        </aside>
+      </section>
+    </main>
+
+    <div id="toasts" class="toasts" aria-live="polite"></div>
+    <script type="module" src="/app.js?v=uploads2"></script>
+  </body>
+</html>
